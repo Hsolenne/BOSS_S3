@@ -1,0 +1,34 @@
+.bio, .filmographie {
+    background-color: #B5B5B5;
+}
+.haut {
+    background-color: #2E2E2E;
+    padding: 70px;
+}
+.photo_cercle {
+    float: right;
+    margin: 0 200px;
+    margin-top: -200px;
+}
+.bio h3, .bio p, .bio figcaption, .filmographie h3, .filmographie p{
+    color: #2E2E2E;
+    margin-left: 20%;
+    margin-right: 20%;
+}
+.bio h3, .filmographie h3 {
+    display: block;
+    margin-top: 60px;
+    margin-bottom: 50px;
+}
+.bio img:not(.photo_cercle) {
+    display: block;
+    margin: 0 auto;
+    padding-top: 30px;
+    padding-bottom: 30px;
+}
+.bio p:last-child, .filmographie p:last-child {
+    padding-bottom: 60px;
+}
+
+
+

@@ -1,0 +1,30 @@
+.elem_accueil1 {
+    background-color: #2E2E2E;
+    padding: 10px 0;
+}
+.elem_accueil1 h1 {
+    margin-bottom: -27px;
+}
+.elem_accueil1 blockquote p {
+    background-color: #A39CBC;
+    color: #2E2E2E;
+    padding: 30px;
+    width: 20%;
+    margin: 0 auto;
+}
+.elem_accueil1 .colonne_gauche {
+    display: block;
+    text-align: center;
+    margin-bottom: 10px;
+}
+
+.elem_accueil1 img {
+    width: 500px;
+}
+.img_accueil {
+    text-align: center;
+}
+.elem_accueil1 svg {
+    margin-left: 30px;
+}
+
